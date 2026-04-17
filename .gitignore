@@ -1,0 +1,16 @@
+# ─── Source materials (local only, never commit) ───────────────────────────
+sources_gitignore/
+
+# ─── OS ────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── VS Code ────────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ─── Temp / editor swap files ──────────────────────────────────────────────
+*.swp
+*.swo
+*~
